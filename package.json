@@ -1,0 +1,16 @@
+{
+  "name": "link-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "func host start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^11.11.0",
+    "node-fetch": "^2.1.2",
+    "page-metadata-parser": "^1.1.2"
+  }
+}
